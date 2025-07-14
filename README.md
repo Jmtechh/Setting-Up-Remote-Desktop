@@ -1,8 +1,8 @@
-<h1>Setting up Remote Desktops</h1>
+<h1>Setting up Remote Desktop</h1>
 
 
 <h2>Description</h2>
-
+The aim of this lab is to connect and take control of another PC via remote log in. This process will be done by using Windows default Remote Desktop Application.
 
 
 <h2>Utilities Used</h2>
