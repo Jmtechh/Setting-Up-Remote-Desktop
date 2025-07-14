@@ -28,7 +28,7 @@ It should say "Running" next to Remote Desktop Services.
 
 <img src="https://i.imgur.com/n6LcAwh.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Another thing you want to check is if you are a memer of Remote Desktop
+Another thing you want to check is if you are a group memebr of Remote Desktop. Without this you will not be enabled to remote into the users account.
 
 <img src="https://i.imgur.com/VYyWg1P.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
