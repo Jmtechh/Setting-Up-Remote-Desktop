@@ -36,13 +36,23 @@ You should also check if you can communicate with the specific PC before you rem
 
 <img src="https://i.imgur.com/TRlhP8g.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+Last but not least you need to check if they have remote services in systems property enabled.
+
 <img src="https://i.imgur.com/5XDPq3e.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+Once you have checked to make sure everything is enabled and running then you can go to the serach bar in the bottom left and open up Remote Desktop. 
 
 <img src="https://i.imgur.com/v4nq0Wu.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+On your side you have to click yes so that you can log into there account remotely.
+
 <img src="https://i.imgur.com/18TZPB5.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+And on their side they have to accept your remote log int request.
+
 <img src="https://i.imgur.com/Sf3Ae7O.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+Once they accept now you can remotely controll their PC from your ower personal device.
 
 <img src="https://i.imgur.com/ldmH6on.jpeg" style="width:80%;" alt="Disk Sanitization Steps"/>
 
