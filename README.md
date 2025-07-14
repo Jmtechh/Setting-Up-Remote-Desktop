@@ -16,9 +16,15 @@ The aim of this lab is to connect and take control of another PC via remote log 
 
 <h2>Program walk-through:</h2>
 
+The first thing you want to do is check if Remote Desktop services is running.
+
 <img src="https://i.imgur.com/MuiyDPo.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+And if the person's PC is currently being used by them you can use computer management to enable Remote Desktop Services in the background so that you do not disturb what you are doing.
+
 <img src="https://i.imgur.com/wIopk0q.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+It should say "Running" next to Remote Desktop Services.
 
 <img src="https://i.imgur.com/n6LcAwh.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
