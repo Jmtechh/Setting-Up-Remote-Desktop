@@ -32,6 +32,8 @@ Another thing you want to check is if you are a group memebr of Remote Desktop. 
 
 <img src="https://i.imgur.com/VYyWg1P.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
+You should also check if you can communicate with the specific PC before you remote into the users account. You can do this by using the ping command in the CMD.
+
 <img src="https://i.imgur.com/TRlhP8g.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/5XDPq3e.png" style="width:80%;" alt="Disk Sanitization Steps"/>
