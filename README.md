@@ -48,7 +48,7 @@ On your side you have to click yes so that you can log into there account remote
 
 <img src="https://i.imgur.com/18TZPB5.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-And on their side they have to accept your remote log int request.
+And on their side they have to accept your remote login request.
 
 <img src="https://i.imgur.com/Sf3Ae7O.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
