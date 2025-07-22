@@ -52,7 +52,7 @@ And on their side they have to accept your remote login request.
 
 <img src="https://i.imgur.com/Sf3Ae7O.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-Once they accept now you can remotely controll their PC from your ower personal device.
+Once they accept, you can now remotely controll their PC from your personal device.
 
 <img src="https://i.imgur.com/ldmH6on.jpeg" style="width:80%;" alt="Disk Sanitization Steps"/>
 
